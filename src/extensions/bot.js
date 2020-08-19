@@ -34,7 +34,7 @@ module.exports = class Bot {
       '', // Bubble color
       '', // Bubble text
       4, // Speed
-      'Zaseth is hot.', // Mood
+      'ZWrld made this game.', // Mood
       '', // Bubble glow
       '0xFF0000', // Mood glow
       '0x000000', // Mood color
